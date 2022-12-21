@@ -1,6 +1,6 @@
 module.exports={
     api:{
-        baseURL: "http://localhost:4000"
+        baseURL: "http://129.80.37.191:8080"
 
     }
 }
